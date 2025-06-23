@@ -50,17 +50,6 @@ Name: John, Aadhar: 123456789012, Mobile: 9876543210, CheckIN: 2025-06-23, Check
 
 ---
 
-## 📸 Screenshots (suggested for LinkedIn/GitHub)
-
-- Admin Login Prompt
-- Booking Form
-- Room Allocation Success
-- Unique Code Display
-- View Available Rooms
-- log.txt opened in Notepad or Excel
-
----
-
 ## 🔧 Future Enhancements
 
 - [ ] QR Code popup for payment (`PaymentPortal()` integration)
