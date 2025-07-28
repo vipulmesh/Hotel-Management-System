@@ -1,0 +1,3 @@
+Name: Sagar Tripathi, Aadhar: 123456789123, Mobile: 1234567892, CheckIN: 26-07-2025, CheckOUT: 28-07-2025, Room: Room101, UniqueCode: 462095
+Name: Vipul Meshram, Aadhar: 123456789123, Mobile: 1234567890, CheckIN: 29-07-2025, CheckOUT: 30-07-2025, Room: Room101, UniqueCode: 686082
+Name: Manohar Sharma, Aadhar: 123456789147, Mobile: 1472583691, CheckIN: 29-07-2025, CheckOUT: 30-07-2025, Room: Room102, UniqueCode: 690057
