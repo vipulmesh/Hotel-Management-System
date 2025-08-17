@@ -23,7 +23,7 @@ Built using **Java** and **Swing**, this project simulates a hotel reception des
 HotelManagement/
 ├── HotelManagement.java       # Main source file
 ├── myqr.jpg                   # Optional QR image for future payment
-├── bookings.csv                    # Booking log file
+├── bookings.csv                    # Booking csv  file for future PDF storage
 ```
 
 ---
